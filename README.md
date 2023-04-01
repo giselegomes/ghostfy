@@ -1,4 +1,4 @@
-# Ghostfy :ghost:
+# Ghostfy :ghost: :sparkle:
 
 Filtro de músicas e playlists
 
