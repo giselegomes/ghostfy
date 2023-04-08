@@ -18,6 +18,9 @@ Filtro de músicas e playlists
 2. Instale as dependências usando `npm install`
 3. Inicie o projeto usando `npm run dev`
 
+*** atenção: para fazer o login no spotify, a aplicação precisa estar rodando no endereço:
+http://localhost:5173 ou http://localhost:5174
+
 ## Tecnologias
 
 Liste as tecnologias que foram usadas no desenvolvimento do seu projeto, por exemplo:
